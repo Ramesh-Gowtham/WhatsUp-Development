@@ -1,5 +1,7 @@
 Design:
 
-	Time code
-	Screen Code
-	Message Code
+	Profile Page Code
+	Chat Screen Code
+	Last Seen Code
+	
+	
