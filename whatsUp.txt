@@ -3,5 +3,5 @@ Design:
 	Profile Page Code
 	Chat Screen Code
 	Last Seen Code
-	
-	
+	Hide Last Seen Code
+		
